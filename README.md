@@ -23,4 +23,5 @@ Designed for legal professionals, students, and curious minds, it generates argu
 * **Live Research:** [Tavily AI](https://tavily.com/) (For real-time legal precedent search)
 * **Language:** Python 3.10+
 
----
+--- Deployed in Streamlit cloud
+https://advocatesbench-himanshumain.streamlit.app/
